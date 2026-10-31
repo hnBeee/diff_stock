@@ -1,0 +1,29 @@
+{
+  "saved_at": "2026-10-30T11:19:14",
+  "label": "produk_20261030_111914",
+  "product_code": "",
+  "product_name": "",
+  "raw_sistem": "GUDANG SURABAYA\n02/10/2026\tSales Delivery\t13183\t-4,06\t4,26\tKg\n02/10/2026\tProduct Conversion\t21238\t4,48\t8,74\tKg\n02/10/2026\tSales Delivery\t13221\t-2\t6,74\tKg\n06/10/2026\tSales Delivery\t13341\t-2\t4,74\tKg\n07/10/2026\tProduct Conversion\t21289\t5,24\t9,98\tKg\n07/10/2026\tSales Delivery\t13381\t-5,02\t4,96\tKg\n08/10/2026\tProduct Conversion\t21303\t14,98\t19,94\tKg\n08/10/2026\tSales Delivery\t13435\t-2,26\t17,68\tKg\n08/10/2026\tSales Invoice\tS/AJP/326/102026\t-2,26\t15,42\tKg\n09/10/2026\tSales Return\tSR/AJP/346/112024\t2,26\t17,68\tKg\n10/10/2026\tSales Delivery\t13504\t-2,18\t15,5\tKg\n13/10/2026\tSales Delivery\t13588\t-3,96\t11,54\tKg\n15/10/2026\tSales Delivery\t13678\t-1,88\t9,66\tKg\n15/10/2026\tSales Delivery\t13682\t-3,04\t6,62\tKg\n16/10/2026\tSales Delivery\t13738\t-4,92\t1,7\tKg\n16/10/2026\tSales Delivery\t13753\t-3,08\t-1,38\tKg\n16/10/2026\tProduct Conversion\t21426\t23,34\t21,96\tKg\n17/10/2026\tSales Delivery\t13778\t-0,68\t21,28\tKg\n17/10/2026\tSales Delivery\t13784\t-2,12\t19,16\tKg\n17/10/2026\tWarehouse Transfer\t10627\t-10\t9,16\tKg\n19/10/2026\tSales Delivery\t13793\t-0,56\t8,6\tKg\n19/10/2026\tSales Delivery\t13804\t-4,12\t4,48\tKg\n19/10/2026\tSales Delivery\t13808\t-4,12\t0,36\tKg\n19/10/2026\tSales Return\tSR/AJP/351/112024\t4,12\t4,48\tKg\n21/10/2026\tSales Delivery\t13898\t-1,94\t2,54\tKg\n21/10/2026\tProduct Conversion\t21469\t21,4\t23,94\tKg\n21/10/2026\tSales Delivery\t13899\t-3,08\t20,86\tKg\n22/10/2026\tSales Delivery\t13962\t-3,05\t17,81\tKg\n23/10/2026\tSales Delivery\t13998\t-3,94\t13,87\tKg\n23/10/2026\tSales Delivery\t13999\t-2,98\t10,89\tKg\n26/10/2026\tSales Delivery\t14077\t-3,1\t7,79\tKg\n30/10/2026\tSales Delivery\t14236\t-4,04\t3,75\tKg",
+  "raw_masuk": "02/10/2026\tHasil Prod.\tCUT BABAT\tOC.BTPT \t4,48\n07/10/2026\tHasil Prod.\tCUT BABAT\tOC.BTPT \t5,24\n08/10/2026\tHasil Prod.\tCUT BABAT\tOC.BTPT \t14,98\n16/10/2026\tHasil Prod.\tCUT BABAT\tOC.BTPT \t23,34\n21/10/2026\tHasil Prod.\tCUT BABAT\tOC.BTPT \t21,40",
+  "raw_keluar": "02/10/2026\tJual\tCUT BABAT\tOC.BTPT \t6,06\n06/10/2026\tJual\tCUT BABAT\tOC.BTPT \t2,00\n07/10/2026\tJual\tCUT BABAT\tOC.BTPT \t5,02\n08/10/2026\tJual\tCUT BABAT\tOC.BTPT \t2,26\n10/10/2026\tJual\tCUT BABAT\tOC.BTPT \t2,18\n13/10/2026\tJual\tCUT BABAT\tOC.BTPT \t3,96\n15/10/2026\tJual\tCUT BABAT\tOC.BTPT \t4,92\n16/10/2026\tJual\tCUT BABAT\tOC.BTPT \t8,00\n16/10/2026\tSby - Smr\tCUT BABAT\tOC.BTPT \t10,00\n17/10/2026\tJual\tCUT BABAT\tOC.BTPT \t2,80\n19/10/2026\tJual\tCUT BABAT\tOC.BTPT \t4,68\n21/10/2026\tJual\tCUT BABAT\tOC.BTPT \t5,02\n22/10/2026\tJual\tCUT BABAT\tOC.BTPT \t3,05\n23/10/2026\tJual\tCUT BABAT\tOC.BTPT \t6,92\n26/10/2026\tJual\tCUT BABAT\tOC.BTPT \t3,10",
+  "summary": {
+    "saldo_awal_manual": 0.0,
+    "sistem_masuk": 75.82,
+    "sistem_keluar": -80.39,
+    "sistem_netto": -4.570000000000007,
+    "manual_masuk": 69.44,
+    "manual_keluar": -69.96999999999998,
+    "manual_netto": -0.5299999999999869,
+    "selisih_masuk": 6.3799999999999955,
+    "selisih_keluar": -10.420000000000016,
+    "selisih_netto": -4.0400000000000205,
+    "sistem_ops_masuk": 75.82,
+    "sistem_ops_keluar": -70.39,
+    "manual_ops_masuk": 69.44,
+    "manual_ops_keluar": -59.96999999999999,
+    "sistem_transfer_masuk": 0.0,
+    "sistem_transfer_keluar": -10.0,
+    "manual_transfer_masuk": 0.0,
+    "manual_transfer_keluar": -10.0
+  }
+}

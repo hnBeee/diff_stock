@@ -1,0 +1,29 @@
+{
+  "saved_at": "2026-10-29T14:20:40",
+  "label": "auto__1420",
+  "product_code": "",
+  "product_name": "",
+  "raw_sistem": "GUDANG SURABAYA\n01/10/2026\tWarehouse Transfer\t10613\t-22\t0\tKg\n03/10/2026\tProduct Conversion\t21262\t40,5\t40,5\tKg\n06/10/2026\tWarehouse Transfer\t10617\t-15\t25,5\tKg\n06/10/2026\tSales Delivery\t13337\t-2,5\t23\tKg\n07/10/2026\tSales Delivery\t13379\t-10\t13\tKg\n07/10/2026\tSales Return\tSR/AJP/338/112024\t10\t23\tKg\n08/10/2026\tSales Delivery\t13444\t-10\t13\tKg\n09/10/2026\tSales Delivery\t13469\t-5\t8\tKg\n09/10/2026\tSales Delivery\t13482\t-5\t3\tKg\n12/10/2026\tProduct Conversion\t21366\t41\t44\tKg\n16/10/2026\tSales Delivery\t13728\t-5\t39\tKg\n16/10/2026\tSales Delivery\t13745\t-5\t34\tKg\n16/10/2026\tSales Delivery\t13754\t-5\t29\tKg\n17/10/2026\tWarehouse Transfer\t10627\t-20\t9\tKg\n19/10/2026\tProduct Conversion\t21451\t21,5\t30,5\tKg\n20/10/2026\tWarehouse Transfer\t10629\t-10\t20,5\tKg\n20/10/2026\tSales Delivery\t13878\t-10\t10,5\tKg\n24/10/2026\tSales Return\tSR/AJP/371/112024\t2,5\t13\tKg\n26/10/2026\tProduct Conversion\t21536\t21,5\t34,5\tKg\n28/10/2026\tSales Delivery\t14141\t-5\t29,5\tKg\n29/10/2026\tWarehouse Transfer\t10642\t-26\t3,5\tKg\n29/10/2026\tProduct Conversion\t21568\t5\t8,5\tKg",
+  "raw_masuk": "03/10/2026\tHasil Prod.\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t40,50\n12/10/2026\tHasil Prod.\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t41,00\n19/10/2026\tHasil Prod.\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t21,50\n20/10/2026\tHasil Prod.\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t12,04\n26/10/2026\tHasil Prod.\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t21,50",
+  "raw_keluar": "01/10/2026\tSby - Smr\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t22,00\n01/10/2026\tSaldo Awal\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t22,00\n05/10/2026\tSby - Smr\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t15,00\n06/10/2026\tJual\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t2,50\n07/10/2026\tJual\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t10,00\n09/10/2026\tJual\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t10,00\n16/10/2026\tJual\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t15,00\n16/10/2026\tSby - Smr\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t20,00\n20/10/2026\tJual\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t10,00\n20/10/2026\tSby - Mlg\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t10,00\n28/10/2026\tJual\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t5,00\n28/10/2026\tSby - Smr\tCHICKEN SLICE 500GRM CT\tPS.CHCT 0.5\t26,00",
+  "summary": {
+    "saldo_awal_manual": 22.0,
+    "sistem_masuk": 145.5,
+    "sistem_keluar": 0.0,
+    "sistem_netto": 145.5,
+    "manual_masuk": 158.54,
+    "manual_keluar": -145.5,
+    "manual_netto": 13.039999999999992,
+    "selisih_masuk": -13.039999999999992,
+    "selisih_keluar": 145.5,
+    "selisih_netto": 132.46,
+    "sistem_ops_masuk": 145.5,
+    "sistem_ops_keluar": -7.5,
+    "manual_ops_masuk": 158.54,
+    "manual_ops_keluar": -52.5,
+    "sistem_transfer_masuk": 0.0,
+    "sistem_transfer_keluar": 7.5,
+    "manual_transfer_masuk": 0.0,
+    "manual_transfer_keluar": -93.0
+  }
+}

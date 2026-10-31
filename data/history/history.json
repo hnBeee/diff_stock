@@ -1,0 +1,122 @@
+[
+  {
+    "saved_at": "2026-10-30T11:19:14",
+    "label": "produk_20261030_111914",
+    "product_code": "",
+    "product_name": "",
+    "selisih_netto": -4.0400000000000205,
+    "session_file": "produk_20261030_111914.json"
+  },
+  {
+    "saved_at": "2026-10-30T11:15:56",
+    "label": "auto__1115",
+    "product_code": "",
+    "product_name": "",
+    "selisih_netto": -4.0400000000000205,
+    "session_file": "auto__1115.json"
+  },
+  {
+    "saved_at": "2026-10-30T10:28:33",
+    "label": "auto__1028",
+    "product_code": "",
+    "product_name": "",
+    "selisih_netto": -4.359999999999999,
+    "session_file": "auto__1028.json"
+  },
+  {
+    "saved_at": "2026-10-29T14:52:53",
+    "label": "auto__1452",
+    "product_code": "",
+    "product_name": "",
+    "selisih_netto": 7.5,
+    "session_file": "auto__1452.json"
+  },
+  {
+    "saved_at": "2026-10-29T14:50:14",
+    "label": "auto__1450",
+    "product_code": "",
+    "product_name": "",
+    "selisih_netto": -14.5,
+    "session_file": "auto__1450.json"
+  },
+  {
+    "saved_at": "2026-10-29T14:41:58",
+    "label": "auto__1441",
+    "product_code": "",
+    "product_name": "",
+    "selisih_netto": 132.46,
+    "session_file": "auto__1441.json"
+  },
+  {
+    "saved_at": "2026-10-29T14:20:40",
+    "label": "auto__1420",
+    "product_code": "",
+    "product_name": "",
+    "selisih_netto": 132.46,
+    "session_file": "auto__1420.json"
+  },
+  {
+    "saved_at": "2026-10-26T11:58:42",
+    "label": "auto_BC.RW19_1158",
+    "product_code": "BC.RW19",
+    "product_name": "CUT BEEF RW 19",
+    "selisih_netto": 119.12399999999991,
+    "session_file": "auto_BC_RW19_1158.json"
+  },
+  {
+    "saved_at": "2026-10-26T11:56:51",
+    "label": "BC.RW19_20261026_115651",
+    "product_code": "BC.RW19",
+    "product_name": "CUT BEEF RW 19",
+    "selisih_netto": 119.12399999999991,
+    "session_file": "BC_RW19_20261026_115651.json"
+  },
+  {
+    "saved_at": "2026-10-26T11:05:28",
+    "label": "auto_BC.RW19_1105",
+    "product_code": "BC.RW19",
+    "product_name": "CUT BEEF RW 19",
+    "selisih_netto": 119.12399999999991,
+    "session_file": "auto_BC_RW19_1105.json"
+  },
+  {
+    "saved_at": "2026-10-26T11:02:51",
+    "label": "auto_BC.RW19_1102",
+    "product_code": "BC.RW19",
+    "product_name": "CUT BEEF RW 19",
+    "selisih_netto": 119.12399999999991,
+    "session_file": "auto_BC_RW19_1102.json"
+  },
+  {
+    "saved_at": "2026-10-26T10:57:59",
+    "label": "auto_BC.RW19_1057",
+    "product_code": "BC.RW19",
+    "product_name": "CUT BEEF RW 19",
+    "selisih_netto": 57.70399999999984,
+    "session_file": "auto_BC_RW19_1057.json"
+  },
+  {
+    "saved_at": "2026-10-26T10:23:42",
+    "label": "cut 19",
+    "product_code": "BC.RW19",
+    "product_name": "CUT BEEF RW 19",
+    "selisih_netto": 736.264,
+    "session_file": "cut_19.json"
+  },
+  {
+    "saved_at": "2026-10-26T10:23:36",
+    "label": "cut 19",
+    "product_code": "BC.RW19",
+    "product_name": "CUT BEEF RW 19",
+    "selisih_netto": null,
+    "session_file": "cut_19.json"
+  },
+  {
+    "saved_at": "2026-10-26T10:23:28",
+    "label": "cut 19",
+    "product_code": "BC.RW19",
+    "product_name": "CUT BEEF RW 19",
+    "selisih_netto": null,
+    "session_file": "cut_19.json"
+  }
+]
